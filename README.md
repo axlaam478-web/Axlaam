@@ -1,15 +1,15 @@
-# 👋 Haye, Waxaan ahay Hodan! (Axlaam)
+# 👋 Hi, I'm Hodan! (Axlaam)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=axlaam478-web&label=Profile%20views&color=0e75b6&style=flat" alt="axlaam478-web" />
 </p>
 
-### 👩‍💻 Waxaan ahay Ardayad barata Horumarinta Mareegaha
-> "Bleve in your life"
+### 👩‍💻 I'm a Web Development Student
+> "Believe in your life"
 
 ---
 
-### 🛠️ Xirfadahayga & Qalabka aan isticmaalo:
+### 🛠️ Skills & Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -23,5 +23,5 @@
 
 ---
 
-### 📫 Nagala soo xiriir:
-* **Email:** [Halkan ku qor email-kaaga]
+### 📫 Contact Me:
+* **Email:** [Your email goes here]
