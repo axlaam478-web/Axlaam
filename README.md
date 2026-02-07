@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="so">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,64 +108,3 @@
     .item small {
       color: var(--soft);
       display: block;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-
-<header class="hero">
-  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Hodan" alt="Hodan Ali Profile">
-  <h1>Hodan Ali</h1>
-  <p>Ardayad ka tirsan Tisqaad College</p>
-</header>
-
-<nav>
-  <a href="#about">Ku saabsan</a>
-  <a href="#skills">Xirfadaha</a>
-  <a href="#experience">Waxbarashada</a>
-  <a href="#contact">Xiriirka</a>
-</nav>
-
-<main>
-
-  <section>
-    <div class="card" id="about">
-      <h3>Ku Saabsan</h3>
-      <p>
-        Waxaan ahay ardayad firfircoon oo wax ka barata <strong>Tisqaad College</strong> ee magaalada Hargeisa. 
-        Waxaan had iyo jeer raadiyaa sidii aan u horumarin lahaa xirfadaheyga aqooneed.
-      </p>
-    </div>
-
-    <div class="card" id="skills">
-      <h3>Xirfadaha</h3>
-      <div class="skills">
-        <span>Microsoft Office</span>
-        <span>Graphic Design</span>
-        <span>Customer Service</span>
-        <span>Digital Marketing</span>
-        <span>English Language</span>
-      </div>
-    </div>
-
-    <div class="card" id="experience">
-      <h3>Waxbarashada</h3>
-      <div class="item">
-        <h4>Tisqaad College</h4>
-        <small>Hargeisa, Somaliland</small>
-        <p>Waxbarashada heerka koolejka ee dhinaca [Geli Takhasuskaaga].</p>
-      </div>
-    </div>
-
-    <div class="card contact" id="contact">
-      <h3>Xiriirka</h3>
-      <p>📧 hodan.ali@email.com</p>
-      <p>🌍 Hargeisa, Somaliland</p>
-    </div>
-  </section>
-
-</main>
-
-</body>
-</html>
