@@ -133,8 +133,8 @@
     <div class="card" id="about">
       <h3>Ku Saabsan</h3>
       <p>
-        Waxaan ahay ardayad hammi sare leh oo wax ka barata <strong>Tisqaad College</strong>. 
-        Waxaan xiiseeyaa barashada tignoolajiyada cusub iyo sidii aan aqoontayda ugu adeegi lahaa bulshada Soomaaliyeed.
+        Waxaan ahay ardayad firfircoon oo wax ka barata <strong>Tisqaad College</strong> ee magaalada Hargeisa. 
+        Waxaan had iyo jeer raadiyaa sidii aan u horumarin lahaa xirfadaheyga aqooneed.
       </p>
     </div>
 
@@ -143,33 +143,25 @@
       <div class="skills">
         <span>Microsoft Office</span>
         <span>Graphic Design</span>
-        <span>Web Basics</span>
-        <span>Maamulka Ganacsiga</span>
-        <span>Communication</span>
+        <span>Customer Service</span>
+        <span>Digital Marketing</span>
         <span>English Language</span>
       </div>
     </div>
 
     <div class="card" id="experience">
-      <h3>Waxbarashada & Khibrada</h3>
+      <h3>Waxbarashada</h3>
       <div class="item">
         <h4>Tisqaad College</h4>
-        <small>2024 – Hadda</small>
-        <p>Waxa aan hadda ku jiraa barashada heerka Diploma/Degree ee takhasuska [Geli takhasuskaaga halkan].</p>
-      </div>
-      <hr style="opacity: 0.1; margin: 20px 0;">
-      <div class="item">
-        <h4>Tababar Shaqo (Internship)</h4>
-        <small>Janaayo 2025</small>
-        <p>Ka qayb qaadashada mashaariicda aqoon kororsiga ee kulliyadda dhexdeeda.</p>
+        <small>Hargeisa, Somaliland</small>
+        <p>Waxbarashada heerka koolejka ee dhinaca [Geli Takhasuskaaga].</p>
       </div>
     </div>
 
     <div class="card contact" id="contact">
       <h3>Xiriirka</h3>
       <p>📧 hodan.ali@email.com</p>
-      <p>📞 +252 61 XXX XXXX</p>
-      <p>🌍 Muqdisho, Somalia</p>
+      <p>🌍 Hargeisa, Somaliland</p>
     </div>
   </section>
 
